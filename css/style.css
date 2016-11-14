@@ -1,16 +1,17 @@
 header{
-background-image: url(../images/deserts.jpg);
-background-size: cover;
-width: 100%;
-height: 1080px;
-background-attachment: fixed;
-position: relative;
-z-index: 3;
+  background-image: url(../images/deserts.jpg);
+  background-size: cover;
+  width: 100%;
+  height: 1080px;
+  background-attachment: fixed;
+  position: relative;
+  z-index: 3;
 }
 
 body{
 	background-color: #ff751a;
 }
+
 h1{
 	font-family: 'Pacifico', cursive;
 	font-size: 90px;
@@ -68,9 +69,9 @@ h5{
 	margin-left: 3%;
 	float: left;
 	color: #e67300;
-	 text-shadow: 1px 1px #FFFFFF;
-   line-height: 38px;
-   font-family: 'Acme', sans-serif;
+	text-shadow: 1px 1px #FFFFFF;
+  line-height: 38px;
+  font-family: 'Acme', sans-serif;
 }
 
 .desert_image{
@@ -135,19 +136,19 @@ a{
 }
 
 .compass_image{
-    width: 20%;
-    margin-left: 3%;
-    margin-right: 2%;
-    float: left;
-    margin-top: 12%;
+  width: 20%;
+  margin-left: 3%;
+  margin-right: 2%;
+  float: left;
+  margin-top: 12%;
   }
 
 .compass_image_2{
-    width: 20%;
-    margin-right: 3%;
-    margin-left: 2%;
-    float: right;
-    margin-top: 12%;
+  width: 20%;
+  margin-right: 3%;
+  margin-left: 2%;
+  float: right;
+  margin-top: 12%;
 }
 
 .crystal{
@@ -192,7 +193,7 @@ margin-top: 40px;
 }
 
 .video-container {
-   background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/35376/bg-3.jpg);//fallback-image while video loads
+  background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/35376/bg-3.jpg);//fallback-image while video loads
   background-size: cover;
 	display: block;
 	width: 100%;
@@ -229,17 +230,17 @@ margin-top: 40px;
 .gyspy_text{
 	position: relative;
   background-color: rgba(0,0,0,0.8);
-    height: 250vh;
+  height: 250vh;
 }
 
 
 nav li {
-font-family: 'Pacifico', cursive;
-display: inline-block;
-font-size: 35px;
-position: relative;
-z-index: 2;
-margin-top: 20px;
+  font-family: 'Pacifico', cursive;
+  display: inline-block;
+  font-size: 35px;
+  position: relative;
+  z-index: 2;
+  margin-top: 20px;
 }
 
 nav{
